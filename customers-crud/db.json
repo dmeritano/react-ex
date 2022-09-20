@@ -1,0 +1,52 @@
+{
+  "customers": [
+    {
+      "name": "Tom Forrest Hanks",
+      "company": "Bubba Gump Shrimp Co.",
+      "email": "forrest@bgump.co",
+      "telephone": "+1 55 26 36 45 18",
+      "notes": "Shrimps rocks",
+      "id": 1
+    },
+    {
+      "name": "Rosita Lagarde",
+      "company": "International Monetary Fund",
+      "email": "money@money.it",
+      "telephone": "+14 36 28 14 66",
+      "notes": "Latest Global Economic Trends to talk to Rosita",
+      "id": 2
+    },
+    {
+      "name": "Charles M. Burns",
+      "company": "Nuclear power plant",
+      "email": "bobo@bear.us",
+      "telephone": "+1 800 21 1000",
+      "notes": "After flashbacks reveal Bobo's journey through history, the bear ends up in the hands of Maggie Simpson. Burns does everything in his power to get Bobo back.",
+      "id": 3
+    },
+    {
+      "name": "Miguel Jackson",
+      "company": "The Jackson 5",
+      "email": "black-or@white.com",
+      "telephone": "+ 1 87 80 60 39 50",
+      "notes": "I took my baby on a Saturday bang. Boy is that girl with you? Yes we're one and the same...",
+      "id": 4
+    },
+    {
+      "name": "Kevin Panceta Bacon",
+      "company": "Footloose",
+      "email": "ren-mccormack@damovie.uk",
+      "telephone": "+1 800 100 2000",
+      "notes": "See, this is our time to dance. It is our way of celebrating life.",
+      "id": 5
+    },
+    {
+      "name": "Juan Lenon",
+      "company": "Beatles Music Band",
+      "email": "juan@bitbitles.uk",
+      "telephone": "+44 100 888 662",
+      "notes": "Count your age by friends, not years. Count your life by smiles, not tears.",
+      "id": 6
+    }
+  ]
+}
