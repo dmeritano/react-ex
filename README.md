@@ -8,7 +8,7 @@ React projects (reorganizing repositories)
 **App / Projects List**
 
 
-| Project | Source |Demo|
+| Project (src) | Source |Demo|
 | --- | --- |--- |
-| [Vet Patients](https://github.com/dmeritano/react-ex/tree/main/vet-patients) | Vet patients administration |[Demo](https://dmeritano-vet-patients-manager.netlify.app/)
-|
+| [Vet Patients](https://github.com/dmeritano/react-ex/tree/main/vet-patients) | Vet patients administration |<a href="https://dmeritano-vet-patients-manager.netlify.app" target="_blank">Demo</a>
+
