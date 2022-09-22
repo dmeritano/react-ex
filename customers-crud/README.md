@@ -16,7 +16,6 @@
 Live Demo(*) [Here](https://dmeritano-customers-crud.netlify.app)
 
 > * Data: loaded from db.json file in this proyect
-> * Limitations: `json-server` deployed in `https://my-json-server.typicode.com` simulate data modification for create, update, delete operations. 
 
 ### Environment variables used
 > * *VITE_CUSTOMERS_API_URL* = `http://url-to-customers-api`
